@@ -10,7 +10,7 @@ Clone the repository and navigate to each of the folders separately using comman
 
 If this does not work, run:
 
-```npm force```
+```npm install --force```
 
 Once your node module dependencies have been installed, start your json-server by navigating to the json-server in your command prompt or terminal and running the following command:
 
