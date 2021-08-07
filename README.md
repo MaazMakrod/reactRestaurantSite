@@ -31,3 +31,9 @@ See the images below or click [here](https://maazmakrod.github.io/projects.html)
 ![image](https://user-images.githubusercontent.com/67477587/127752364-3e99f389-6a9d-4420-8a59-523da675bb2d.png)
 ![image](https://user-images.githubusercontent.com/67477587/127752368-da2d6378-bc47-4e8a-b215-069e01c7d992.png)
 ![image](https://user-images.githubusercontent.com/67477587/127752373-0b9799e2-3803-4871-b06e-a663a9e477c8.png)
+
+Here is an image of the database in command prompt:
+
+![image](https://user-images.githubusercontent.com/67477587/128606277-4cf3fd78-adee-4f7c-9255-1c95b7381763.png)
+
+As you can see, data is fetched and sent from the database! This is done through JavaScript promises.
